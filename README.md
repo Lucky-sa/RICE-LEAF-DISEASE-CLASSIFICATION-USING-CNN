@@ -44,6 +44,8 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
+Tensorflow
+
 Jupyter Notebook
 
 ### 🚀 How to Run the Project
@@ -51,10 +53,6 @@ Jupyter Notebook
 Clone the repository
 
 git clone https://github.com/your-username/RICE-LEAF-DISEASE-CLASSIFICATION-USING-CNN.git
-
-Install dependencies
-
-pip install -r requirements.txt
 
 Open Jupyter Notebook
 
