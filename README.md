@@ -1,5 +1,5 @@
 # RICE-LEAF-DISEASE-CLASSIFICATION-USING-CNN
-Machine learning project to classify rice leaf diseases using image processing
+Machine learning project to classify rice leaf diseases 
 ## 🌾 Rice Leaf Disease Classification using Machine Learning
 ### 📌 Project Overview
 
@@ -37,8 +37,6 @@ Python 🐍
 NumPy
 
 Pandas
-
-OpenCV
 
 Matplotlib 
 
