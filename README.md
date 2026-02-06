@@ -16,20 +16,20 @@ Bacterial Leaf Blight
 The goal of this project is to classify diseased rice leaves accurately using image processing and ML techniques.
 
 ### 📂 Repository Structure
-Rice-Leaf-Disease-Classification/
-│
-├── dataset/
-│   ├── Leaf smut/
-│   ├── Brown spot/
-│   ├── Bacterial leaf blight/
-│   └── README.md
+RICE-LEAF-DISEASE-CLASSIFICATION-USING-CNN/
 │
 ├── code/
 │   ├── CODE.ipynb
 │   └── README.md
 │
-├── README.md
-└── requirements.txt
+├── dataset/
+│   ├── Bacterial leaf blight.7z
+│   ├── Brown spot.7z
+│   ├── Leaf smut.7z
+│   └── README.md
+│
+└── README.md
+
 ### 🧠 Technologies Used
 
 Python 🐍
