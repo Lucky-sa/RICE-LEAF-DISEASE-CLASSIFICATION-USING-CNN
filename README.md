@@ -40,7 +40,7 @@ Pandas
 
 OpenCV
 
-Matplotlib / Seaborn
+Matplotlib 
 
 Scikit-learn
 
